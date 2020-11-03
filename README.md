@@ -21,7 +21,7 @@
     isolated= {2, 4}
     links {'8': 3, '7': 1}
     
-    result= 6  (correct)
+    RESULT= 6  (correct)
 
     n= 4
     edges= ['1 2', '2 4']
@@ -29,4 +29,4 @@
     isolated= {3}
     links {'1': 1
     
-    result= 3  (correct)
+    RESULT= 3  (correct)
